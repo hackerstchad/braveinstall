@@ -1,0 +1,17 @@
+{
+  "channel": "stable",
+  "launch": true,
+  "create_shortcut": true,
+  "set_default": false,
+  "dry_run": false,
+  "force": false,
+  "keep_cache": false,
+  "skip_signature": false,
+  "proxy": null,
+  "language": "auto",
+  "search_engine": "brave",
+  "homepage": "https://search.brave.com",
+  "disable_telemetry": true,
+  "extensions": [],
+  "brave_args": ["--no-default-browser-check"]
+}
